@@ -1,0 +1,11 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "python.pythonPath": "/Users/kwonhyunah/opt/anaconda3/envs/tensorflow/bin/python",
+>>>>>>> master
+=======
+    "python.pythonPath": "/Users/kwonhyunah/opt/anaconda3/envs/new/bin/python",
+>>>>>>> master
+    "python.dataScience.jupyterServerURI": "local"
+}
